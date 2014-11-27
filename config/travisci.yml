@@ -1,6 +1,5 @@
 ---
 org:
   repositories:
-    ci_travis_eddiejaoude_zf2logger: eddiejaoude/zf2-logger
-    ci_travis_dev_confidence_example_backend_api: dev-confidence/example-backend-api
+    ci_travis_eddiejaoude_moj: eddiejaoude/ministryofjustice-opg-48h-hackathon
   type: org
