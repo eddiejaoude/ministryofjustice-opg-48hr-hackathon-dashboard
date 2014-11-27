@@ -1,6 +1,2 @@
 repos:
-  - eddiejaoude/zf2-logger
-  - dev-confidence/example-backend-api
-
-#login: Your_github_username
-#password: Your_github_password
+  - eddiejaoude/ministryofjustice-opg-48h-hackathon
